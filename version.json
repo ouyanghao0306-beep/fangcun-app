@@ -1,10 +1,10 @@
 {
-  "version": "1.2.0",
-  "versionCode": 2,
-  "minVersion": "0.9.0",
-  "title": "方寸锦囊 v1.2.0 更新",
-  "description": "新增纪念日功能，记录重要日子倒计时",
-  "downloadUrl": "https://cdn.jsdelivr.net/gh/ouyanghao0306-beep/fangcun-app@main/fangcunjinnang.apk?v=120",
+  "version": "1.3.0",
+  "versionCode": 3,
+  "minVersion": "1.0.0",
+  "title": "方寸锦囊 v1.3.0 更新",
+  "description": "新增记账本功能，支持收支记录和统计",
+  "downloadUrl": "https://cdn.jsdelivr.net/gh/ouyanghao0306-beep/fangcun-app@main/fangcunjinnang.apk?v=130",
   "force": false,
-  "size": "12.7 MB"
+  "size": "13.0 MB"
 }
