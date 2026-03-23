@@ -1,10 +1,10 @@
 {
-  "version": "1.4.0",
-  "versionCode": 4,
+  "version": "1.5.0",
+  "versionCode": 5,
   "minVersion": "1.0.0",
-  "title": "方寸锦囊 v1.4.0 更新",
-  "description": "优化更新机制，使用 Git 标签版本管理，解决下载缓存问题",
-  "downloadUrl": "https://cdn.jsdelivr.net/gh/ouyanghao0306-beep/fangcun-app@v1.4.0/fangcunjinnang.apk",
+  "title": "方寸锦囊 v1.5.0 更新",
+  "description": "测试 Git 标签更新机制，验证 v1.5.0 版本",
+  "downloadUrl": "https://cdn.jsdelivr.net/gh/ouyanghao0306-beep/fangcun-app@v1.5.0/fangcunjinnang.apk",
   "force": false,
   "size": "13.0 MB"
 }
