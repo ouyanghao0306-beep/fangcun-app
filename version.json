@@ -3,8 +3,8 @@
   "versionCode": 5,
   "minVersion": "1.0.0",
   "title": "方寸锦囊 v1.5.0 更新",
-  "description": "测试 Git 标签更新机制，验证 v1.5.0 版本",
-  "downloadUrl": "https://cdn.jsdelivr.net/gh/ouyanghao0306-beep/fangcun-app@v1.5.0/fangcunjinnang.apk",
+  "description": "优化更新机制，使用腾讯云COS+GitHub加速方案，解决国内更新慢问题",
+  "downloadUrl": "https://gh-proxy.com/https://github.com/ouyanghao0306-beep/fangcun-app/releases/download/v1.5.0/fangcunjinnang.apk",
   "force": false,
   "size": "13.0 MB"
 }
